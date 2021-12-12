@@ -1,0 +1,15 @@
+[build]
+  command = "npm run build"
+  publish = "dist/"
+
+[[redirects]]
+  from = "/"
+  to = "/invite"
+
+[[redirects]]
+  from = "/invite"
+  to = "https://discord.com/oauth2/authorize?client_id=912883633998684240&permissions=83968&scope=bot"
+
+[[redirects]]
+  from = "/support"
+  to = "https://discord.gg/WUyghSWN22"
