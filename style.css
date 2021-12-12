@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 .button {
-    @apply px-5 py-3 rounded-sm;
+  @apply px-5 py-3 rounded-full border-2 text-white hover:bg-white hover:border-white hover:text-black duration-700;
 }
