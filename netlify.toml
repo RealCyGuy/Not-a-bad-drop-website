@@ -4,7 +4,7 @@
 
 [[redirects]]
   from = "/invite"
-  to = "https://discord.com/oauth2/authorize?client_id=912883633998684240&permissions=83968&scope=bot"
+  to = "https://discord.com/oauth2/authorize?client_id=947365454828150854&permissions=478208&scope=bot%20applications.commands"
 
 [[redirects]]
   from = "/support"
